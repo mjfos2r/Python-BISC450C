@@ -1,1 +1,10 @@
 MAKE SURE TO CHANGE PATHS TO THE CORRECT LOCATION IF RUNNING LOCALLY! 
+Use this:
+
+path2data = '../csv_files/data'
+
+or this
+
+path2files = '../csv_files/data/'
+
+idk I could probably make them the same but <<shrug>>
