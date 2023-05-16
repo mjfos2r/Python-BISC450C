@@ -131,4 +131,3 @@ dependencies:
     - pytz==2023.3
     - seaborn==0.12.2
     - tzdata==2023.3
-prefix: /Users/michaelfoster/miniforge3/envs/jupyter
