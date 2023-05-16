@@ -1,0 +1,1 @@
+Ignore this directory, I was originally going to export each notebook as markdown and then cat *.md > final_project.md but honestly didn't feel like doing that. Used a script instead that is much much much easier and less painful to use. it's at ../scripts/mergeJupyterFiles.py . All of the notebooks are at ../notebooks . ignore this directory. 

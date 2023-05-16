@@ -1,10 +1,11 @@
 MAKE SURE TO CHANGE PATHS TO THE CORRECT LOCATION IF RUNNING LOCALLY! 
 Use this:
 
-path2data = '../csv_files/data'
+path2data = '../data_files/software-carpentry/data'
 
 or this
 
-path2files = '../csv_files/data/'
+path2files = '../data_files/software-carpentry/data/'
 
-idk I could probably make them the same but <<shrug>>
+idk I could probably make them the same everywhere in the code but anyway.
+
