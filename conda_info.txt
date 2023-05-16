@@ -1,0 +1,32 @@
+
+     active environment : jupyter
+    active env location : /Users/michaelfoster/miniforge3/envs/jupyter
+            shell level : 1
+       user config file : /Users/michaelfoster/.condarc
+ populated config files : /Users/michaelfoster/miniforge3/.condarc
+                          /Users/michaelfoster/.condarc
+          conda version : 22.9.0
+    conda-build version : not installed
+         python version : 3.10.6.final.0
+       virtual packages : __osx=13.3.1=0
+                          __unix=0=0
+                          __archspec=1=arm64
+       base environment : /Users/michaelfoster/miniforge3  (writable)
+      conda av data dir : /Users/michaelfoster/miniforge3/etc/conda
+  conda av metadata url : None
+           channel URLs : https://conda.anaconda.org/bioconda/osx-arm64
+                          https://conda.anaconda.org/bioconda/noarch
+                          https://conda.anaconda.org/r/osx-arm64
+                          https://conda.anaconda.org/r/noarch
+                          https://conda.anaconda.org/conda-forge/osx-arm64
+                          https://conda.anaconda.org/conda-forge/noarch
+          package cache : /Users/michaelfoster/miniforge3/pkgs
+                          /Users/michaelfoster/.conda/pkgs
+       envs directories : /Users/michaelfoster/miniforge3/envs
+                          /Users/michaelfoster/.conda/envs
+               platform : osx-arm64
+             user-agent : conda/22.9.0 requests/2.28.1 CPython/3.10.6 Darwin/22.4.0 OSX/13.3.1
+                UID:GID : 501:20
+             netrc file : None
+           offline mode : False
+
